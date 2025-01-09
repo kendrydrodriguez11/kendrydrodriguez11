@@ -2,7 +2,7 @@
 
 
 <div class="presentation">
-  <h1>My name is Kendryd Rodriguez and I'm studing in Ing. Software.</h1>
+  <p1>My name is Kendryd Rodriguez and I'm studing in Ing. Software.</h1>
 </div>
 <!--
 **kendrydrodriguez11/kendrydrodriguez11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
