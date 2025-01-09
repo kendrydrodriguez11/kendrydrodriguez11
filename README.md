@@ -3,6 +3,8 @@
 
 <div class="presentation">
   <p1>My name is Kendryd Rodriguez and I'm studing in Ing. Software.</h1>
+
+  <img src= "https://miro.medium.com/v2/resize:fit:1000/1*H2lskiXGNpW5EtU4rCZV2g.png"/>
 </div>
 <!--
 **kendrydrodriguez11/kendrydrodriguez11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
