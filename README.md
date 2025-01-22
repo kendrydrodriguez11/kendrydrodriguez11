@@ -15,6 +15,17 @@
   </a>
 </p>
 
+
+- 🔭 I’m currently working on my **Python Course**
+
+- 🌱 I’m currently learning **Python, HTML5 and CSS3**
+
+- 👯 I’m looking to collaborate on **front-end and back-end projects**
+
+- 📫 How to reach me: **brantlauro@gmail.com**
+
+- ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
+
 <p align="center">
   <img height="200" alt="GIF 1" 
        src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" 
