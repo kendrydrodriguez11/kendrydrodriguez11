@@ -15,6 +15,8 @@ src="https://camo.githubusercontent.com/0f6ca2f8f1e0f0d0b3577fc4111985992141889a
 
 - ☕ Back-end Software Development
 
+- 🗄️  I have knowledge of relational databases.
+
 - 👨‍💻 I have basic knowledge in Front-end
 
 
