@@ -28,7 +28,7 @@
 
 <p align="center">
   <img height="200" alt="GIF 1" 
-       src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" 
+       src="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://camo.githubusercontent.com/0f6ca2f8f1e0f0d0b3577fc4111985992141889ab1bfed02b7a01888acfd8bde/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313030302f312a48326c736b6958474e7057354574553472435a5632672e706e67)" 
        style="max-width: 100%; margin-bottom: 10px;">
 </p>
 
