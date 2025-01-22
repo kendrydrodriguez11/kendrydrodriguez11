@@ -10,15 +10,12 @@ src="https://camo.githubusercontent.com/0f6ca2f8f1e0f0d0b3577fc4111985992141889a
 
 
 
-- 🔭 I’m currently working on my **Python Course**
+- 🧑‍🎓 Student of Software Engineering
 
-- 🌱 I’m currently learning **Python, HTML5 and CSS3**
+- ☕ Back-end Software Development
 
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
+- 👨‍💻 I have basic knowledge in Front-end
 
-- 📫 How to reach me: **brantlauro@gmail.com**
-
-- ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
 
 
 
