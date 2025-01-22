@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img height="600" alt="GIF 1" 
+  <img height="200" alt="GIF 1" 
        src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" 
        style="max-width: 100%; margin-bottom: 10px;">
 </p>
