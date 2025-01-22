@@ -1,6 +1,8 @@
 <h2 align="center">
-  Hi there, I'm Kendryd Rodriguez. 👋 Welcome to your new account! 🙂‍↔
+  Hi there, I'm Kendryd Rodriguez 👋. 
 </h2>
+
+<h5> Welcome to your new account! 🙂‍↔</h5>
 
 
 <div class="presentation">
