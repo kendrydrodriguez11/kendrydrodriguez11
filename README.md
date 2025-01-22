@@ -7,8 +7,11 @@
   
 </div>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=My name is Kendryd Rodriguez and I'm studying in Ing. Software. 💻;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=My+name+is+Kendryd+Rodriguez+and+I'm+studying+Software+Engineering.;Self-taught+Front-End+Developer.;Computer+Science+Student.;CTF+Newbie.;Active+Learner+and+Researcher.;Love+to+learn+new+things+<3.">
+  </a>
 </p>
+
 
 
 <img src= "https://miro.medium.com/v2/resize:fit:1000/1*H2lskiXGNpW5EtU4rCZV2g.png"/>
