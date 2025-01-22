@@ -19,11 +19,6 @@
        style="max-width: 100%; margin-bottom: 10px;">
 </p>
 
-<p align="center">
-  <img alt="GIF 2" 
-       src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" 
-       width="30" height="30">
-</p>
 
 <!--
 **kendrydrodriguez11/kendrydrodriguez11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
