@@ -16,8 +16,7 @@
 
 
 
-<img src= "https://miro.medium.com/v2/resize:fit:1000/1*H2lskiXGNpW5EtU4rCZV2g.png"/>
-
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 
 
 <!--
 **kendrydrodriguez11/kendrydrodriguez11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
