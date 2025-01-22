@@ -1,8 +1,6 @@
-<h2 align="center">
-  Hi there, I'm Kendryd Rodriguez 👋. 
-  <br> <br>
-  Welcome to your new account! 🙂‍↔
-</h2>
+<h3 align="center">
+  Hi there, I'm Kendryd Rodriguez. Welcome to your new account! 👋🙂‍↔
+</h3>
 
 
 
