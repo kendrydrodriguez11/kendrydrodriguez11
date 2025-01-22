@@ -1,9 +1,9 @@
 <h2 align="center">
   Hi there, I'm Kendryd Rodriguez 👋. 
   <br>
-  Welcome to your new account!
+  Welcome to your new account! 🙂‍↔
 </h2>
-<h5 aling="center" ></h5>
+
 
 
 
