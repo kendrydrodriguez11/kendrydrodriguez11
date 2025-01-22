@@ -13,16 +13,17 @@
   </a>
 </p>
 
-<img align="right" height="300" alt="GIF" 
-  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" 
-  style="max-width: 100%; display: inline-block;">
+<p align="center">
+  <img height="300" alt="GIF 1" 
+       src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" 
+       style="max-width: 100%; margin-bottom: 10px;">
+</p>
 
-<h3 align="center"> 
-  <br>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" 
-       width="30" height="30" style="margin-right: 10px;">
-  Connect with me 🤝
-</h3>
+<p align="center">
+  <img alt="GIF 2" 
+       src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" 
+       width="30" height="30">
+</p>
 
 <!--
 **kendrydrodriguez11/kendrydrodriguez11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
