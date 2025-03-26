@@ -6,7 +6,7 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="60%" valign="top" style="border: none;">
     
 ## 🚀 Technical Stack
 
@@ -44,8 +44,8 @@
 
 </div>
     </td>
-    <td width="40%" valign="top">
-      <img height="320" alt="Coding GIF" src="https://camo.githubusercontent.com/d1e9733ec79822bcadf8b9a1035840ee511e2f022fe9f652cc163db23dc171d3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); display: block; margin-left: auto; margin-right: auto;">
+    <td width="40%" valign="top" style="border: none;">
+      <img height="360" alt="Coding GIF" src="https://camo.githubusercontent.com/d1e9733ec79822bcadf8b9a1035840ee511e2f022fe9f652cc163db23dc171d3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); display: block; margin-left: auto; margin-right: auto;">
     </td>
   </tr>
 </table>
