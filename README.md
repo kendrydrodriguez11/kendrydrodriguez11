@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=5C7AFF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Kendryd+Rodriguez;Welcome+to+my+profile!;Software+Engineering+Student;Backend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=5C7AFF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Kendryd+Rodriguez;Welcome+to+my+profile!;Software+Engineering+Student;Backend+%26+DevOps+Enthusiast" alt="Typing SVG" />
 </div>
 
 <br>
@@ -8,7 +8,7 @@
   <img align="right" height="320" alt="Coding GIF" src="https://camo.githubusercontent.com/d1e9733ec79822bcadf8b9a1035840ee511e2f022fe9f652cc163db23dc171d3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 </div>
 
-## 🚀 Technical Skills
+## 🚀 Technical Stack
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin-top: 20px;">
 
@@ -31,9 +31,12 @@
 
 </div>
 
-### **Databases**
+### **DevOps & Architecture**
 <div style="background: rgba(92,122,255,0.1); padding: 15px; border-radius: 10px; min-width: 200px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-1890FF?style=for-the-badge&logo=circle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -48,11 +51,27 @@
 <div style="background: rgba(92,122,255,0.05); padding: 20px; border-radius: 10px; border-left: 4px solid #5C7AFF; box-shadow: 0 2px 10px rgba(0,0,0,0.05);">
 
 - 🎓 **Software Engineering** Student  
-- ☕ Passionate about **Backend Development**  
-- 🗄️ Experience with **relational databases** (MySQL, PostgreSQL)  
+- ☕ Passionate about **Backend & DevOps**  
+- 🐋 Experience with **Docker** containerization  
+- 🏗️ Knowledge in **Microservices Architecture**  
+- 🗄️ **SQL Databases**: MySQL, PostgreSQL  
 - 🖥️ Basic knowledge in **Frontend Development**  
-- 🌱 Currently learning **Microservices Architecture**  
-- 💡 Interested in **Cloud Computing** (AWS, Azure)  
+- ☁️ Learning **Cloud Technologies** (AWS, Azure)  
+
+</div>
+
+<br>
+
+## 🛠️ Recent Projects
+
+<div style="background: rgba(92,122,255,0.03); padding: 15px; border-radius: 8px; border: 1px dashed #5C7AFF; margin-bottom: 20px;">
+
+### 🔗 [Project Name]()
+Dockerized microservices application with Spring Boot and MySQL database. Features include:
+- Container orchestration with Docker Compose
+- RESTful API design
+- Database migration scripts
+- CI/CD pipeline integration
 
 </div>
 
