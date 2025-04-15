@@ -60,7 +60,7 @@
 - ☕ Passionate about **Backend & DevOps**  
 - 🐋 Experience with **Docker** containerization  
 - 🏗️ Knowledge in **Microservices Architecture**  
-- 🗄️ **SQL Databases**: MySQL, PostgreSQL  
+- 🗄️ **SQL Databases**: MySQL, SQL Server   
 - 🖥️ Basic knowledge in **Frontend Development**  
 - ☁️ Learning **Cloud Technologies** (AWS, Azure)  
 
