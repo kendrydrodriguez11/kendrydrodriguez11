@@ -35,10 +35,10 @@
 <div style="background: rgba(92,122,255,0.1); padding: 15px; border-radius: 10px; min-width: 200px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-1890FF?style=for-the-badge&logo=circle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
 
 </div>
 
