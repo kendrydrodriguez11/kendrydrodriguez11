@@ -62,7 +62,7 @@
 - 🏗️ Knowledge in **Microservices Architecture**  
 - 🗄️ **SQL Databases**: MySQL, SQL Server   
 - 🖥️ Basic knowledge in **Frontend Development**  
-- ☁️ Learning **Cloud Technologies** (AWS, Azure)  
+- ☁️ Learning **Cloud Technologies** (AWS)  
 
 </div>
 
