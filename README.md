@@ -57,7 +57,7 @@
 <div style="background: rgba(92,122,255,0.05); padding: 20px; border-radius: 10px; border-left: 4px solid #5C7AFF; box-shadow: 0 2px 10px rgba(0,0,0,0.05);">
 
 - 🎓 **Software Engineering** Student  
-- ☕ Passionate about **Backend & DevOps**  
+- ☕ Passionate about **Backend**  
 - 🐋 Experience with **Docker** containerization  
 - 🏗️ Knowledge in **Microservices Architecture**  
 - 🗄️ **SQL Databases**: MySQL, SQL Server   
