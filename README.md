@@ -1,93 +1,148 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=5C7AFF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Kendryd+Rodriguez;Welcome+to+my+profile!;Software+Engineering+Student;Backend+%26+DevOps+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kendryd+Rodriguez+%F0%9F%91%8B;Software+Engineering+Student;Backend+%26+DevOps+Engineer;Building+Scalable+Solutions" alt="Typing SVG" />
 </div>
 
 <br>
 
+## 🚀 Tech Stack
+
 <table>
-  <tr>
-    <td width="60%" valign="top" style="border: none;">
-    
-## 🚀 Technical Stack
+<tr>
+<td width="50%" valign="top">
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin-top: 20px;">
-
-### **Backend Development**
-<div style="background: rgba(92,122,255,0.1); padding: 15px; border-radius: 10px; min-width: 200px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+### Backend & DevOps
+```yaml
+Languages:
+  - Java (Spring Boot, Maven)
+  - Python (Django, FastAPI)
   
-![Java](https://img.shields.io/badge/Java-%232370ED.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-</div>
-
-### **Frontend Development**
-<div style="background: rgba(92,122,255,0.1); padding: 15px; border-radius: 10px; min-width: 200px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+Infrastructure:
+  - Docker & Docker Compose
+  - Microservices Architecture
+  - RESTful APIs
   
-![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+Databases:
+  - MySQL
+  - Microsoft SQL Server
+  - PostgreSQL
+```
 
-</div>
+</td>
+<td width="50%" valign="top">
 
-### **DevOps & Architecture**
-<div style="background: rgba(92,122,255,0.1); padding: 15px; border-radius: 10px; min-width: 200px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+### Frontend & Cloud
+```yaml
+Web:
+  - HTML5, CSS3, JavaScript
+  - Responsive Design
   
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-1890FF?style=for-the-badge&logo=circle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+Cloud & CI/CD:
+  - AWS (Learning)
+  - Git & GitHub Actions
+  - Deployment Automation
+```
 
-</div>
-
-</div>
-    </td>
-    <td width="40%" valign="top" style="border: none;">
-      <img height="360" alt="Coding GIF" src="https://camo.githubusercontent.com/d1e9733ec79822bcadf8b9a1035840ee511e2f022fe9f652cc163db23dc171d3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); display: block; margin-left: auto; margin-right: auto;">
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 <br>
 
-## 📌 About Me
+## 💼 Featured Projects
 
-<div style="background: rgba(92,122,255,0.05); padding: 20px; border-radius: 10px; border-left: 4px solid #5C7AFF; box-shadow: 0 2px 10px rgba(0,0,0,0.05);">
+<details open>
+<summary><b>🐳 Microservices E-Commerce Platform</b></summary>
+<br>
 
-- 🎓 **Software Engineering Student**  
-- ☕ Passionate about **Backend Development**  
-- 🐋 Experience with **Docker**  
-- 🏗️ Knowledge in **Microservices Architecture**  
-- 🗄️ **SQL Databases**: MySQL, SQL Server   
-- 🖥️ Basic **Frontend** skills  
-- ☁️ Learning **AWS Cloud**  
+Arquitectura de microservicios completa con Spring Boot
 
+**Stack:** Spring Boot • Docker • MySQL • RabbitMQ • Spring Cloud  
+**Features:**
+- ✅ Service discovery y API Gateway
+- ✅ Comunicación asíncrona entre servicios
+- ✅ Circuit breaker pattern
+- ✅ Containerización completa
+
+[Ver Repositorio →](#)
+
+</details>
+
+<details>
+<summary><b>🔐 API Authentication System</b></summary>
+<br>
+
+Sistema de autenticación con JWT y roles
+
+**Stack:** Django • PostgreSQL • Redis • JWT  
+**Features:**
+- ✅ Autenticación basada en tokens
+- ✅ Sistema de permisos granular
+- ✅ Rate limiting y caching
+- ✅ Documentación automática con Swagger
+
+[Ver Repositorio →](#)
+
+</details>
+
+<details>
+<summary><b>📊 DevOps Dashboard</b></summary>
+<br>
+
+Panel de monitoreo para infraestructura
+
+**Stack:** Python • Docker • Prometheus • Grafana  
+**Features:**
+- ✅ Monitoreo de contenedores en tiempo real
+- ✅ Alertas automáticas
+- ✅ Métricas de performance
+- ✅ Logs centralizados
+
+[Ver Repositorio →](#)
+
+</details>
+
+<br>
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kendrydrodriguez11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kendrydrodriguez11&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <br>
 
-## 🛠️ Recent Projects
+## 🎯 Current Focus
 
-<div style="background: rgba(92,122,255,0.03); padding: 15px; border-radius: 8px; border: 1px dashed #5C7AFF; margin-bottom: 20px;">
-
-### 🔗 Project Name
-Dockerized microservices application with Spring Boot and MySQL database. Includes:
-- Container orchestration with Docker Compose  
-- RESTful API design  
-- Database migration scripts  
-- CI/CD pipeline integration  
-
-</div>
+```javascript
+const kendryd = {
+  learning: ["AWS Solutions Architect", "Kubernetes", "Kafka"],
+  working_on: "Microservices architecture patterns",
+  interests: ["Backend scalability", "Cloud infrastructure", "System design"],
+  goal_2025: "AWS Certified Developer certification"
+};
+```
 
 <br>
 
-## 📫 Let's Connect!
+## 🌐 Connect With Me
 
-<div align="center" style="margin-top: 20px;">
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kendryd-jonayker-rodriguez-ronquillo-77a1a826b/)
-[![Website](https://img.shields.io/badge/Website-5C7AFF?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://kendrydrodriguez11.github.io/portafolio-web/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kendryd-jonayker-rodriguez-ronquillo-77a1a826b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300D9FF.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kendrydrodriguez11.github.io/portafolio-web/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kendrydrodriguez6@gmail.com)
 
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kendrydrodriguez11&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+</div>
+
+---
+
+<div align="center">
+  <i>💡 "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </div>
