@@ -39,7 +39,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-
 </div>
 
 </div>
@@ -56,13 +55,13 @@
 
 <div style="background: rgba(92,122,255,0.05); padding: 20px; border-radius: 10px; border-left: 4px solid #5C7AFF; box-shadow: 0 2px 10px rgba(0,0,0,0.05);">
 
-- 🎓 **Software Engineering** Student  
-- ☕ Passionate about **Backend**  
-- 🐋 Experience with **Docker** containerization  
+- 🎓 **Software Engineering Student**  
+- ☕ Passionate about **Backend Development**  
+- 🐋 Experience with **Docker**  
 - 🏗️ Knowledge in **Microservices Architecture**  
 - 🗄️ **SQL Databases**: MySQL, SQL Server   
-- 🖥️ Basic knowledge in **Frontend Development**  
-- ☁️ Learning **Cloud Technologies** (AWS)  
+- 🖥️ Basic **Frontend** skills  
+- ☁️ Learning **AWS Cloud**  
 
 </div>
 
@@ -72,12 +71,12 @@
 
 <div style="background: rgba(92,122,255,0.03); padding: 15px; border-radius: 8px; border: 1px dashed #5C7AFF; margin-bottom: 20px;">
 
-### 🔗 [Project Name]()
-Dockerized microservices application with Spring Boot and MySQL database. Features include:
-- Container orchestration with Docker Compose
-- RESTful API design
-- Database migration scripts
-- CI/CD pipeline integration
+### 🔗 Project Name
+Dockerized microservices application with Spring Boot and MySQL database. Includes:
+- Container orchestration with Docker Compose  
+- RESTful API design  
+- Database migration scripts  
+- CI/CD pipeline integration  
 
 </div>
 
@@ -97,9 +96,9 @@ Dockerized microservices application with Spring Boot and MySQL database. Featur
 ## 📫 Let's Connect!
 
 <div align="center" style="margin-top: 20px;">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kendryd-jonayker-rodriguez-ronquillo-77a1a826b/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kendrydrodriguez6@gmail.com)
+[![Website](https://img.shields.io/badge/Website-5C7AFF?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://kendrydrodriguez11.github.io/portafolio-web/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kendrydrodriguez6@gmail.com)
 
 </div>
