@@ -1,7 +1,4 @@
-<div align="center">
-    <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-</div>
 
 <br>
 
@@ -45,10 +42,16 @@
 </div>
     </td>
     <td width="40%" valign="top" style="border: none;">
-      <img height="360" alt="Coding GIF" src="https://camo.githubusercontent.com/d1e9733ec79822bcadf8b9a1035840ee511e2f022fe9f652cc163db23dc171d3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); display: block; margin-left: auto; margin-right: auto;">
+      <div style="position: relative;">
+        <img align="right" top="500" height="360" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="border-radius: 12px; box-shadow: 0 8px 25px rgba(0,0,0,0.2); border: 3px solid #5C7AFF; display: block; margin-left: auto; margin-right: auto; transition: transform 0.3s ease;">
+        <div style="position: absolute; bottom: 10px; left: 50%; transform: translateX(-50%); background: rgba(92,122,255,0.9); color: white; padding: 5px 15px; border-radius: 20px; font-size: 12px; font-weight: bold;">
+        </div>
+      </div>
     </td>
   </tr>
 </table>
+
+<br>
 
 <br>
 
