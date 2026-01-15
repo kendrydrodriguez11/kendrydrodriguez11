@@ -91,7 +91,7 @@ Dockerized microservices application with Spring Boot and MySQL database. Includ
 <div align="center" style="margin-top: 20px;">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kendryd-jonayker-rodriguez-ronquillo-77a1a826b/)
-[![Website](https://img.shields.io/badge/Website-5C7AFF?style=for-the-badge&logo=internet-explorer&logoColor=white)]([https://kendrydrodriguez11.github.io/portafolio-web/](https://portafolio-web-react-alpha.vercel.app/)
+[![Website](https://img.shields.io/badge/Website-5C7AFF?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://portafolio-web-react-alpha.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kendrydrodriguez6@gmail.com)
 
 </div>
